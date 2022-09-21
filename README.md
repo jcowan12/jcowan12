@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpaperaccess.com/full/6810534.jpg" align="center" style="width: 70%" />
+<img src="https://wallpaperaccess.com/full/6810534.jpg" align="center" style="width: 60%" />
 </div>  
   
 
@@ -9,7 +9,7 @@
 Class: Junior 😎  
   
 
-Resume: [Here](www.linkedin.com/jonathandcowan)  
+Resume: [Here](linkedin.com/in/jonathandcowan)  
   
 
 More to come! 🤓  
