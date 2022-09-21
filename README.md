@@ -46,7 +46,6 @@ More to come! 🤓
 ### Technical cont.  
 - Data Cleaning
 - Query Writing via Splunk
-- Microsoft Access
 - Microsoft Office Suite  
 
 
