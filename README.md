@@ -12,7 +12,8 @@ Class: Junior 😎
 Resume: [Here](linkedin.com/in/jonathandcowan)  
   
 
-More to come! 🤓  
+Personal Projects:
+- Lacrosse Stat Tracker in C++ (in progress)
   
 
 <br/>  
