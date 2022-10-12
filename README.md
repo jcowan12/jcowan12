@@ -8,8 +8,6 @@
 
 Class: Junior 😎  
   
-
-Resume: [Here](linkedin.com/in/jonathandcowan)  
   
 
 Personal Projects:
