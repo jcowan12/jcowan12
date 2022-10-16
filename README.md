@@ -12,6 +12,7 @@ Class: Junior 😎
 
 Personal Projects:
 - Lacrosse Stat Tracker in C++ (in progress)
+- WebScraper w/ Selenium  (in progress)
   
 
 <br/>  
