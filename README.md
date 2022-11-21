@@ -10,7 +10,8 @@ Class: Junior 😎
   
   
 
-Personal Projects:
+Projects:
+- Budget Tracker (React JS)
 - Lacrosse Stat Tracker in C++ (in progress)
 - WebScraper w/ Selenium  (in progress)
   
