@@ -11,7 +11,7 @@ Class: Junior 😎
   
 
 Projects:
-- Budget Tracker (React JS)
+- Budget Tracker (React JS, BootStrap 5.0, API Implementations)
 - Lacrosse Stat Tracker in C++ (in progress)
 - WebScraper w/ Selenium  (in progress)
   
