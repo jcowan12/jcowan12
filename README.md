@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A computer science student at Clemson University with a passion for data science and web development.</h3>
+<h3 align="center">A full-time computer science student at Clemson University with a passion for data science and web development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcowan12&label=Profile%20views&color=000000&style=flat" alt="jcowan12" /> </p>
 
